@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225506_NgoThiNhuY_Pattern16_Iterator", "DPM225506_NgoThiNhuY_Pattern16_Iterator\DPM225506_NgoThiNhuY_Pattern16_Iterator.csproj", "{EC669710-B428-4DAB-B664-9B4CFF971F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC669710-B428-4DAB-B664-9B4CFF971F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC669710-B428-4DAB-B664-9B4CFF971F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC669710-B428-4DAB-B664-9B4CFF971F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC669710-B428-4DAB-B664-9B4CFF971F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {804A68DB-9A63-40C9-B4E5-2D3401AE5656}
+	EndGlobalSection
+EndGlobal

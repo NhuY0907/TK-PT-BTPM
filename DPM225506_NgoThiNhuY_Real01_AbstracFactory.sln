@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM225506_NgoThiNhuY_Real01_AbstracFactory", "DPM225506_NgoThiNhuY_Real01_AbstracFactory\DPM225506_NgoThiNhuY_Real01_AbstracFactory.csproj", "{2951F5B4-5294-47FB-98CB-A8B030E127E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2951F5B4-5294-47FB-98CB-A8B030E127E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2951F5B4-5294-47FB-98CB-A8B030E127E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2951F5B4-5294-47FB-98CB-A8B030E127E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2951F5B4-5294-47FB-98CB-A8B030E127E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FE2942-603E-4766-8DE5-3A6F106D780E}
+	EndGlobalSection
+EndGlobal
